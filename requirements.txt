@@ -10,12 +10,13 @@ Flask-WTF==1.2.1
 gunicorn==21.2.0
 itsdangerous==2.2.0
 Jinja2==3.1.4
+loginform==1.2.0
+lxml==5.3.0
 MarkupSafe==2.1.5
 packaging==24.1
 psycopg2-binary==2.9.9
+python-dotenv==1.0.1
 SQLAlchemy==2.0.25
 typing_extensions==4.12.2
 Werkzeug==3.0.0
 WTForms==3.0.1
-gunicorn==21.2.0
-psycopg2-binary==2.9.9
